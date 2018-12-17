@@ -13,10 +13,9 @@ sagittis vitae euismod ac, pretium efficitur turpis.
 var imgWidth = 296;
       var pageHeight = 295;
       var imgHeight = canvas.height * imgWidth / canvas.width;
-      var heightLeft = imgHeight;
-      
+      var heightLeft = imgHeight;      
 ```
-![](http://www.fgf.edu.br/wp-content/themes/fgf-28-05-2013_RESPONSIVO/images/unigrandelogopng400x187.png)
+
 
 Nullam volutpat neque at magna vulputate condimentum. Proin eleifend, felis ac
 scelerisque pharetra, sem elit lacinia lorem, non tristique metus turpis sed
