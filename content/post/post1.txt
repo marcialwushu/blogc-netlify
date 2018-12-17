@@ -9,6 +9,14 @@ tincidunt eros rutrum id. Praesent convallis magna sit amet mi vulputate
 convallis. Maecenas consequat commodo enim et dictum. Mauris turpis eros,
 sagittis vitae euismod ac, pretium efficitur turpis.
 
+```js
+var imgWidth = 296;
+      var pageHeight = 295;
+      var imgHeight = canvas.height * imgWidth / canvas.width;
+      var heightLeft = imgHeight;
+      
+```
+
 Nullam volutpat neque at magna vulputate condimentum. Proin eleifend, felis ac
 scelerisque pharetra, sem elit lacinia lorem, non tristique metus turpis sed
 tellus. Phasellus ut arcu imperdiet, aliquet libero ut, maximus libero. Sed
