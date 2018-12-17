@@ -16,6 +16,7 @@ var imgWidth = 296;
       var heightLeft = imgHeight;
       
 ```
+![](http://www.fgf.edu.br/wp-content/themes/fgf-28-05-2013_RESPONSIVO/images/unigrandelogopng400x187.png)
 
 Nullam volutpat neque at magna vulputate condimentum. Proin eleifend, felis ac
 scelerisque pharetra, sem elit lacinia lorem, non tristique metus turpis sed
