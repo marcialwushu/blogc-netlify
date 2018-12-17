@@ -9,7 +9,7 @@ tincidunt eros rutrum id. Praesent convallis magna sit amet mi vulputate
 convallis. Maecenas consequat commodo enim et dictum. Mauris turpis eros,
 sagittis vitae euismod ac, pretium efficitur turpis.
 
-```js
+```
 var imgWidth = 296;
       var pageHeight = 295;
       var imgHeight = canvas.height * imgWidth / canvas.width;
