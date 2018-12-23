@@ -6,7 +6,7 @@ SITE_TAGLINE = Site Tagline
 BASE_DOMAIN = http://example.org
 
 [settings]
-locale = en_US.utf-8
+locale = pt_BR.utf-8
 date_format = %b %d, %Y, %I:%M %p GMT
 
 [posts]
